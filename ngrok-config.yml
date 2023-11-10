@@ -1,0 +1,8 @@
+authtoken: 2XGb8ZhTvYRIjtjAQl4riIleXLf_65SVkCc4YfJmmfqmNzsn9
+tunnels:
+  servidor:
+    addr: 4000
+    proto: http
+  cliente:
+    addr: 3000
+    proto: http

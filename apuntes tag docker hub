@@ -1,0 +1,9 @@
+C:\Users\suus\Desktop\Personal\Proyectos\chat desde 0\client>docker push suus99/chat-client:cliente
+The push refers to repository [docker.io/suus99/chat-client]
+81e91e947535: Pushed
+6cb522e050c7: Pushed
+2afdf20d6e51: Pushed
+75bd09f1afcd: Pushed
+f3b5811a95f5: Mounted from suus99/chat
+0d5f5a015e5d: Mounted from suus99/chat
+3c777d951de2: Mounted from suus99/chat
